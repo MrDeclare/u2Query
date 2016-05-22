@@ -1,9 +1,8 @@
 "use strict";
 
-let submodule = require("./lib/submodule.js");
+var each = require("./lib/each.js");
+var isArrayLike = require("./lib/isArrayLike.js");
+var isWindow = require("./lib/isWindow.js");
+var type = require("./lib/type.js");
 
-let printMsg = function() {
-  console.log("This is a message from the demo package");
-};
-
-module.exports = {printMsg, submodule};
+module.exports = {each, isArrayLike, isWindow, type};

@@ -1,6 +1,6 @@
 {
   "name": "u2query",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Hopefully useful and universal (u2) javaScript modules build out of selected jQuery functionality",
   "main": "index.js",
   "scripts": {

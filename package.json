@@ -1,0 +1,25 @@
+{
+  "name": "u2query",
+  "version": "0.0.1",
+  "description": "Hopefully useful and universal (u2) javaScript modules build out of selected jQuery functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDeclare/u2Query.git"
+  },
+  "keywords": [
+    "universal",
+    "javaScript",
+    "jQuery",
+    "modules"
+  ],
+  "author": "MrDeclare <noxdeclare@gmail.com> (http://mrdeclare.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrDeclare/u2Query/issues"
+  },
+  "homepage": "https://github.com/MrDeclare/u2Query#readme"
+}
